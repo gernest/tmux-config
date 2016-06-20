@@ -10,7 +10,7 @@ Installation
   Download:
 
 ```bash
-git clone https://github.com/gernesty/tmux-config.git ~/.tmux
+git clone https://github.com/gernest/tmux-config.git ~/.tmux
 ```
 
   Copy tmux config to home:
